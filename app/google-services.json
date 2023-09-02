@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500338573793",
+    "project_id": "transliter-app",
+    "storage_bucket": "transliter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500338573793:android:22120425b161ab5b0d92a0",
+        "android_client_info": {
+          "package_name": "com.Myapp.transliter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500338573793-omeb1ph36enjlg00b9vs8veq6aoutb6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-l0ET3-Vf6S6C-T3MuZrSbPCOYNZ4tgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500338573793-omeb1ph36enjlg00b9vs8veq6aoutb6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
